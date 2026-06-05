@@ -1,0 +1,11 @@
+user_id,first_name,last_name,department,job_title,status,hire_date
+1,Chris,Giggleman,IT,Service Desk Analyst,Active,2023-09-01
+2,Sarah,Johnson,Finance,Accountant,Active,2022-04-15
+3,Michael,Smith,HR,HR Specialist,Active,2021-06-20
+4,Angela,Brown,IT,System Administrator,Active,2020-11-10
+5,David,Williams,Sales,Sales Representative,Active,2023-02-05
+6,Emily,Davis,Finance,Finance Manager,Active,2019-08-12
+7,Robert,Miller,Operations,Operations Analyst,Inactive,2021-03-18
+8,Jessica,Wilson,HR,HR Manager,Active,2018-12-01
+9,Daniel,Moore,IT,Security Analyst,Active,2022-10-25
+10,Lisa,Taylor,Sales,Sales Manager,Active,2020-07-30

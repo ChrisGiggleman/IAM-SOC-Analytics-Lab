@@ -1,0 +1,9 @@
+group_id,group_name,group_type,privilege_level
+1,IT_Admins,Security,High
+2,Helpdesk_Team,Support,Medium
+3,Finance_ReadOnly,Business,Low
+4,HR_ReadOnly,Business,Low
+5,Security_Analysts,Security,High
+6,Sales_Users,Business,Low
+7,Operations_Users,Business,Low
+8,Finance_Admins,Business,High
