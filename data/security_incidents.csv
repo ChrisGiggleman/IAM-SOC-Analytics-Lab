@@ -1,0 +1,4 @@
+incident_id,user_id,incident_type,severity,status
+5001,1,Multiple Failed Logins,Medium,Open
+5002,9,Suspicious Authentication,High,Investigating
+5003,4,Privilege Review,Low,Closed

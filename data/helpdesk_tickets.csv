@@ -1,0 +1,6 @@
+ticket_id,user_id,category,priority,status
+1001,1,Password Reset,High,Closed
+1002,2,Software Issue,Medium,Closed
+1003,5,VPN Access,High,Open
+1004,3,Email Issue,Low,Closed
+1005,9,Security Request,High,Open
